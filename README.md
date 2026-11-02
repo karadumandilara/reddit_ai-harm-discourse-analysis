@@ -1,7 +1,5 @@
 # Measuring Responsibility Attribution in Public Discourse on AI Harms
 
-Code, word lists and derived data for the article "Measuring Responsibility Attribution in Public Discourse on AI Harms: Grammatical Agency, Moral Vocabulary and Compositional Change".
-
 The study measures who is named as the agent of harm in Reddit discussions of AI harms (2020 to 2025), using the grammatical agents of 50 harm verbs, and how much moral vocabulary (Moral Foundations Dictionary, care.vice and fairness.vice) these discussions use. Both measures are validated by hand, and the estimates are corrected for changes in the composition of the corpus.
 
 ## Data
