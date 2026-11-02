@@ -14,11 +14,9 @@ Reddit texts and usernames are not redistributed. The `data/` folder contains id
 | `harm_clauses.csv` | The 2,704 harm clauses: item, verb, voice, agent category and period. |
 | `item_topics.csv` | BERTopic topic of each item with at least one harm clause. |
 | `topic_labels.csv` | Topic labels, mapping to Shelby et al. (2023) categories and inclusion flag. |
-| `validation_102_codes.csv` | Second validation round: harm and agent codes for 102 clauses. |
 | `recall_200_codes.csv` | Recall sample: harm and agent codes for 200 sentences. |
 | `mfd_150_codes.csv` | Moral Foundations Dictionary validation: codes for 150 matches. |
 | `topic_robustness.csv` | Topic-fixed estimates under alternative topic models (Table A9). |
-| `queries.csv` | The search queries used for data collection (8 layers, 34 categories). |
 
 The texts can be retrieved from Reddit with the identifiers in `items.csv`. Items deleted since collection cannot be retrieved.
 
